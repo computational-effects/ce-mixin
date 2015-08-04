@@ -1,0 +1,16 @@
+{
+  "name": "ce-mixin",
+  "version": "1.0.0",
+  "description": "Computational effect - mixin",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computational effect",
+    "mixin",
+    "role"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT"
+}
