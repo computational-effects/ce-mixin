@@ -14,6 +14,6 @@ var mixins = function(mixs, obj) {
 };
 
 module.exports = {
-  mixin: mixin
-  mixins: mixins
+  mixin: mixin,
+  mixins: mixins,
 };
