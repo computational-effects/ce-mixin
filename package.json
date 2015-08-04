@@ -1,6 +1,6 @@
 {
   "name": "ce-mixin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Computational effect - mixin",
   "main": "src/index.js",
   "scripts": {
