@@ -2,7 +2,7 @@
 
 var mixin = function(mix, obj) {
   Object.keys(mix).forEach(function(key) {
-    obj[key] = mix[key];
+    Object.defineProperty(obj, key, Object.getOwnPropertyDescriptor(mix, key));
   });
   return obj;
 };
